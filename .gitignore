@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.log
 
 # Distribution / packaging
 .Python
@@ -128,3 +129,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Big files
+tweets_ids.csv
